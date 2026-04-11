@@ -1,0 +1,37 @@
+# Core Python packages for AI and development
+setuptools>=69.0
+wheel>=0.42.0
+
+# Data science and AI
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+
+# Machine learning and AI frameworks
+torch>=2.0.0
+transformers>=4.40.0
+
+# API and web development
+requests>=2.31.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+flask>=3.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pyyaml>=6.0
+pymongo>=4.7.2
+dnspython>=2.5.0
+
+# Development and debugging
+pytest>=7.4.0
+black>=24.1.0
+flake8>=7.0.0
+mypy>=1.8.0
+ipython>=8.20.0
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Logging and monitoring
+colorama>=0.4.6
