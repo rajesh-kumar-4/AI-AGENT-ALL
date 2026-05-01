@@ -7,7 +7,7 @@ Skills -Required
 -Orchestration framework: langchain, LIAmaldex, langgraph, multiagent systems,
 -ML/DL: Pytorch, TensorFlow,Fine tuning
 -RAG-: PostgresSQL, Vector DBs, advance retrieval
--Deployment: Docker, openshif,Production APIs,Monitoring
+-Deployment: Docker, openshift,Production APIs,Monitoring
 -Platform: LightSpeed enterprize
 -Domain: Fintech Profiles will be given preference
 
