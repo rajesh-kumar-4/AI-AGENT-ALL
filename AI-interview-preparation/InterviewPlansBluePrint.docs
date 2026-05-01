@@ -1,0 +1,51 @@
+Role: Agentic APIs
+*********************************************************************
+
+Skills -Required
+---------------------------------------------------------------------------
+-LLMs-hands-on production experience Gemini, Cloude, OPENAI
+-Orchestration framework: langchain, LIAmaldex, langgraph, multiagent systems,
+-ML/DL: Pytorch, TensorFlow,Fine tuning
+-RAG-: PostgresSQL, Vector DBs, advance retrieval
+-Deployment: Docker, openshif,Production APIs,Monitoring
+-Platform: LightSpeed enterprize
+-Domain: Fintech Profiles will be given preference
+
+Responsibilities:
+-Building robust and scalable Systems, to service 10000s of internal users.
+-Integrating LLM-based features, using internal AI platforms.
+-Working closely with CItibank engineers and stackholders to help define requirements
+-Building high-quality, well tested applications and services.
+-Working arrangements
+
+Job description:
+You will be a part of thee high callibre engineering team building secure, 
+scalable AI paltforms and IntegratingAI based features info existing systems. Working
+closely with engineers and technical leaders , u will be help to advance AI work across internal operations.
+
+you will bring your experience and expertise to bear in both service design and implementation, building well tested systems and delivering continueous incremental improvements.
+
+Curiosity and entusiasm for genetic and generative AI technologies or traditional ML, is important.
+you will be helping to roll out AI features dsafely across the firm. This role is a chance to be at forfront of AI, rolling out features to real users.
+
+A grid dynamics, you will join an exceptional team of software professionals team with strong internal technical communities and a focus on learning, self improvement and developmening as a professional software engineering
+-----------------------------------------------------------------------
+**************************************************************************************
+Role: Agentic AI
+
+Required Skills:
+-Strong profiency in python for AI/ML and backend developement
+-Hands on experience with LLMs and AI platforms(CGP vertex AI, Amazon BEdrock, Open AI compatible APIs)
+-Experience designing Agentic AI systems or multi step AIO workflows
+-Solid understanding on-Knowledge graphs, vector, databse and TRAG pipelines.
+-Experience with API integration, microservices and cloude native architectures
+-Familirities with CI/CD pipelines and DevOps practices
+
+
+Client interview:
+-scenario based1. Deployment related
+-RAG pipelines3. Multi model agentic: how to maintain memories
+-how tro trigger agentic from one agent to another agent
+-
+----------------------------------------------
+AWS cyberArch-
